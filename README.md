@@ -2,4 +2,4 @@
 Stay updated with latest coding competitions
 
 
-Follow @Competo in telegram
+Follow @Competo in telegram and send '/start'
